@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f1f5f8;
+}
+.head {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 40px;
+  color: #2d3a35;
+}
+.para {
+  font-size: 30px;
+  font-weight: 500;
+  color: #2d3a35;
+}
+.counter {
+  color: #c20a72;
+}
+
+.button-style {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 8px;
+  width: 120px;
+  height: 50px;
+  border: solid 0px;
+  font-size: 20px;
+}
